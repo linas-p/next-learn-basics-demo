@@ -1,6 +1,6 @@
-Some sample for future me.
+Some [Node.js](https://github.com/vercel/next-learn/tree/master/basics/demo) sample for future me to run on VM.
 
-Run [Next.js](https://nextjs.org/learn) page on Google Cloud Platform (GCP) virtual machine (VM).
+Run [Next.js](https://nextjs.org/learn) demo page on Google Cloud Platform (GCP) virtual machine (VM).
 
 Just:
 
